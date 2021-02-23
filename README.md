@@ -1,6 +1,6 @@
 # Sobyity
 
-![https://jitpack.io/#MisterCow1/sobyity](https://jitpack.io/v/MisterCow1/sobyity.svg)
+![](https://img.shields.io/jitpack/v/github/MisterCow1/sobyity?style=for-the-badge)
 
 Sobyity is an event system for Java, directed at minecraft clients, as it is written in Java 8.
 
